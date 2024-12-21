@@ -1,0 +1,10 @@
+{
+  "name": "JohnCenaCoin",
+  "unit-name": "JCC",
+  "decimals": 6,
+  "url": "https://raw.githubusercontent.com/GertPer/JohnCenaCoin/main/metadata.json",
+  "metadata-hash": "BASE64_ENCODED_METADATA",
+  "properties": {
+    "logo": "https://raw.githubusercontent.com/GertPer/JohnCenaCoin/main/johncenacoin.png"
+  }
+}
