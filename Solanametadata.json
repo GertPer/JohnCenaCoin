@@ -1,0 +1,16 @@
+{
+  "name": "JohnCenaCoin",
+  "symbol": "UCME",
+  "description": "JohnCenaCoin (UCME) — a devnet test token on Solana.",
+  "image": "https://raw.githubusercontent.com/GertPer/JohnCenaCoin/main/johncenacoin.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/GertPer/JohnCenaCoin/main/johncenacoin.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
